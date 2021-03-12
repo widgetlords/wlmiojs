@@ -1,6 +1,5 @@
 {
   "main": "wlmio.js",
-  "private": true,
   "gypfile": true,
   "name": "wlmiojs",
   "version": "1.0.0",
