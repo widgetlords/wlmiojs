@@ -1,0 +1,14 @@
+{
+  "main": "wlmio.js",
+  "private": true,
+  "gypfile": true,
+  "name": "wlmiojs",
+  "version": "1.0.0",
+  "description": "Bindings for libwlmio",
+  "author": "Widgetlords",
+  "license": "MIT",
+  "scripts":
+  {
+    "install": "node-gyp rebuild"
+  }
+}
